@@ -1,2 +1,2 @@
 # ProjectsAndShit
-Guess.
+For projects and shit.
